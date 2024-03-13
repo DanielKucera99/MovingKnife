@@ -33,7 +33,6 @@ def moving_knife(cake_length, players):
     return cake_portions, knife_positions
 
 
-# Example usage
 if __name__ == "__main__":
     def valuation1(position):
         return 0.3 * position
